@@ -214,7 +214,7 @@
         <mxCell id="emA5nqPT4hOt2afq7BLD-90" value="TrangThai:boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="emA5nqPT4hOt2afq7BLD-86">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="emA5nqPT4hOt2afq7BLD-91" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=ERoneToMany;endFill=0;startArrow=ERmandOne;startFill=0;" edge="1" parent="1" source="emA5nqPT4hOt2afq7BLD-28" target="emA5nqPT4hOt2afq7BLD-86">
+        <mxCell id="emA5nqPT4hOt2afq7BLD-91" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=ERoneToMany;endFill=0;startArrow=ERmandOne;startFill=0;" edge="1" parent="1" source="emA5nqPT4hOt2afq7BLD-28" target="emA5nqPT4hOt2afq7BLD-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

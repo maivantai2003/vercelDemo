@@ -330,19 +330,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZC5v_0BSbkfHpD8rnW3x-207" value="ThongBaoCaNhan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-122" y="172" width="165" height="130" as="geometry" />
+          <mxGeometry x="-103" y="105" width="165" height="156" as="geometry" />
         </mxCell>
         <mxCell id="ZC5v_0BSbkfHpD8rnW3x-208" value="MaThongBaoCaNhan:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZC5v_0BSbkfHpD8rnW3x-207">
           <mxGeometry y="26" width="165" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ZC5v_0BSbkfHpD8rnW3x-209" value="MaChiTietCongViec:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZC5v_0BSbkfHpD8rnW3x-207">
+        <mxCell id="ZC5v_0BSbkfHpD8rnW3x-209" value="MaNguoiGui:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZC5v_0BSbkfHpD8rnW3x-207">
           <mxGeometry y="52" width="165" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ZC5v_0BSbkfHpD8rnW3x-210" value="NoiDungThongBao" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZC5v_0BSbkfHpD8rnW3x-207">
+        <mxCell id="ZC5v_0BSbkfHpD8rnW3x-212" value="MaNguoiNhan:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZC5v_0BSbkfHpD8rnW3x-207">
           <mxGeometry y="78" width="165" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ZC5v_0BSbkfHpD8rnW3x-211" value="TrangThai:boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZC5v_0BSbkfHpD8rnW3x-207">
+        <mxCell id="ZC5v_0BSbkfHpD8rnW3x-210" value="NoiDungThongBao" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZC5v_0BSbkfHpD8rnW3x-207">
           <mxGeometry y="104" width="165" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC5v_0BSbkfHpD8rnW3x-211" value="TrangThai:boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZC5v_0BSbkfHpD8rnW3x-207">
+          <mxGeometry y="130" width="165" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -174,7 +174,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="usf8wN2vNSCNwpnewYWm-64" value="PhanCong" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="878" y="648" width="164" height="182" as="geometry" />
+          <mxGeometry x="876" y="618" width="164" height="182" as="geometry" />
         </mxCell>
         <mxCell id="usf8wN2vNSCNwpnewYWm-65" value="MaPhanCong:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="usf8wN2vNSCNwpnewYWm-64">
           <mxGeometry y="26" width="164" height="26" as="geometry" />
@@ -240,7 +240,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="usf8wN2vNSCNwpnewYWm-98" value="TienDoCongViec" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="795" y="865" width="181" height="182" as="geometry" />
+          <mxGeometry x="876" y="850" width="181" height="182" as="geometry" />
         </mxCell>
         <mxCell id="usf8wN2vNSCNwpnewYWm-99" value="MaTienDoCongViec:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="usf8wN2vNSCNwpnewYWm-98">
           <mxGeometry y="26" width="181" height="26" as="geometry" />

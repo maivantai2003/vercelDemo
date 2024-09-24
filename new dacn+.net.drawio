@@ -182,7 +182,7 @@
         <mxCell id="usf8wN2vNSCNwpnewYWm-65" value="MaPhanCong:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="usf8wN2vNSCNwpnewYWm-64">
           <mxGeometry y="26" width="164" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="usf8wN2vNSCNwpnewYWm-66" value="MaChiTietCongViec:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="usf8wN2vNSCNwpnewYWm-64">
+        <mxCell id="usf8wN2vNSCNwpnewYWm-66" value="MaCongViec:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="usf8wN2vNSCNwpnewYWm-64">
           <mxGeometry y="52" width="164" height="26" as="geometry" />
         </mxCell>
         <mxCell id="usf8wN2vNSCNwpnewYWm-67" value="MaNhanVien:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="usf8wN2vNSCNwpnewYWm-64">

@@ -329,7 +329,7 @@
           <mxGeometry y="78" width="148" height="26" as="geometry" />
         </mxCell>
         <mxCell id="usf8wN2vNSCNwpnewYWm-137" value="ChuyenGiaoCongViec" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1112" y="610" width="181" height="182" as="geometry" />
+          <mxGeometry x="1103" y="599" width="181" height="182" as="geometry" />
         </mxCell>
         <mxCell id="usf8wN2vNSCNwpnewYWm-138" value="MaChuyenGiaoCongViec:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="usf8wN2vNSCNwpnewYWm-137">
           <mxGeometry y="26" width="181" height="26" as="geometry" />
@@ -355,7 +355,7 @@
         <mxCell id="usf8wN2vNSCNwpnewYWm-146" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=ERoneToMany;endFill=0;startArrow=ERmandOne;startFill=0;" edge="1" parent="1" source="usf8wN2vNSCNwpnewYWm-67" target="usf8wN2vNSCNwpnewYWm-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="usf8wN2vNSCNwpnewYWm-147" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=ERoneToMany;endFill=0;startArrow=ERmandOne;startFill=0;" edge="1" parent="1" source="usf8wN2vNSCNwpnewYWm-47" target="usf8wN2vNSCNwpnewYWm-137">
+        <mxCell id="usf8wN2vNSCNwpnewYWm-147" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=ERoneToMany;endFill=0;startArrow=ERmandOne;startFill=0;" edge="1" parent="1" source="usf8wN2vNSCNwpnewYWm-47" target="usf8wN2vNSCNwpnewYWm-138">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="usf8wN2vNSCNwpnewYWm-149" value="MocThoiGian" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
